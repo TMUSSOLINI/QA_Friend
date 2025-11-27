@@ -1,0 +1,10 @@
+#logo {
+  width: 400px;
+  box-sizing: border-box;
+}
+
+#texto-logo {
+  color: white;
+  font-family: "Roboto mono";
+  font-size: small;
+}
